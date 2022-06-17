@@ -32,7 +32,7 @@ pyparsing==2.2.0
 pytest==3.2.2
 python-dateutil==2.6.0
 queuelib==1.4.2
-Scrapy==1.4.0
+Scrapy==2.6.1
 service-identity==17.0.0
 simplegeneric==0.8.1
 six==1.10.0
